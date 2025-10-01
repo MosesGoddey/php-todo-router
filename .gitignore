@@ -1,0 +1,15 @@
+# Composer dependencies
+/vendor/
+
+# Node.js dependencies (if any)
+node_modules/
+
+# Environment config (DB credentials, API keys)
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Cache or session folders (if you have them)
+storage/
